@@ -1,0 +1,9 @@
+# Secrets: API keys live only in n8n credentials or a local .env
+.env
+.env.*
+
+# Local n8n data (database, credentials, executions)
+.n8n/
+
+# macOS
+.DS_Store
