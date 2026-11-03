@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/6b5bdbc5-f9e9-4106-a15e-9d2cd8b98334
+
+
+
 # AI Lead Qualification Agent (n8n + Groq)
 
 A no-code agent that reads inbound demo requests, scores them with plain rules, asks an LLM for a judgement, routes each lead to Hot, Warm or Cold, keeps a human in the loop for Hot leads, and logs every run.
