@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/6b5bdbc5-f9e9-4106-a15e-9d2cd8b98334
-
 
 
 # AI Lead Qualification Agent (n8n + Groq)
@@ -9,6 +7,10 @@ https://github.com/user-attachments/assets/6b5bdbc5-f9e9-4106-a15e-9d2cd8b98334
 A no-code agent that reads inbound demo requests, scores them with plain rules, asks an LLM for a judgement, routes each lead to Hot, Warm or Cold, keeps a human in the loop for Hot leads, and logs every run.
 
 Built on self-hosted n8n Community Edition with a free Groq API key. No paid tools, no extra accounts.
+
+
+
+https://github.com/user-attachments/assets/907161e6-b964-4eef-b8fc-349d144c9889
 
 <!-- DEMO VIDEO: drag the .mp4 into this spot when editing on github.com -->
 
